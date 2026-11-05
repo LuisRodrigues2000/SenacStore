@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SenacStore.Application/SenacStore.Application.csproj" />
+  <Project Path="SenacStore.UI/SenacStore.Domain.csproj" />
+</Solution>
